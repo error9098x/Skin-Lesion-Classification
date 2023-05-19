@@ -29,7 +29,7 @@ To use the models for classification tasks, follow these instructions:
 5. Open the Jupyter Notebook (.ipynb) file for the desired model:
    - [ResNet152.ipynb](https://github.com/error9098x/Skin-Lesion-Classification/blob/main/ISIC%202019%20Notebooks/isic2019-resnet152%20(1).ipynb)
    - [VGG19.ipynb](https://github.com/error9098x/Skin-Lesion-Classification/blob/main/ISIC%202019%20Notebooks/isic2019-vgg19.ipynb)
-   - [DenseNet201.ipynb](ISIC 2019 Notebooks/isic2019-densenet201.ipynb)
+   - [DenseNet201.ipynb](https://github.com/error9098x/Skin-Lesion-Classification/blob/main/ISIC%202019%20Notebooks/isic2019-densenet201.ipynb)
    - [SqueezeNet1.1.ipynb](SqueezeNet1.1.ipynb)
 
 6. Follow the instructions in the notebook to train or evaluate the model.
