@@ -69,8 +69,4 @@ You can try out the image classification models using the Hugging Face demo avai
 
 ---
 
-Please note that you will need to replace the placeholder links in the template with the actual links to your files and images.
 
-Once you have created the repository on GitHub and updated the README file, you can upload the model files, Jupyter Notebook files, and any other necessary assets to the repository.
-
-If you have any further questions or need additional assistance, feel free to ask.
