@@ -14,7 +14,7 @@ To use the models for classification tasks, follow these instructions:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/Skin-Lesion-Image-Classification.git
+   git clone https://github.com/error9098x/Skin-Lesion-Classification.git
    ```
 
 
