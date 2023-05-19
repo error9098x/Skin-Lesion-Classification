@@ -64,9 +64,7 @@ The following evaluation metrics are provided for each of the four models:
 ## Hugging Face Demo
 You can try out the image classification models using the Hugging Face demo available at the following link:
 - [Hugging Face Demo](https://huggingface.co/spaces/Hzjsjs/Skinlesion)
-- 
-
-![Hugging Face Demo Screenshot](demo-screenshot.png)
+![Hugging Face Demo Screenshot](https://github.com/error9098x/Skin-Lesion-Classification/blob/main/Images/HuggingFace/hugginface.png)
 
 ---
 
